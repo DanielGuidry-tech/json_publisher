@@ -1,0 +1,16 @@
+[
+  {
+    "name": "cash-sms-1y-hp",
+    "promo_code": null,
+    "total_before_discount": "49.95",
+    "total_before_tax": "49.95",
+    "offer_configuration_ids": "577"
+  },
+  {
+    "name": "cash-sms-1y-hp30",
+    "promo_code": "HP30",
+    "total_before_discount": "49.95",
+    "total_before_tax": "34.95",
+    "offer_configuration_ids": "577"
+  }
+]
